@@ -19,6 +19,6 @@ I built a multi‑label chest X‑ray classifier that can detect five common tho
 
 ---
 
-P.S.
-The code and assignments in this repository were developed as part of the AI for Medical Diagnosis course on Coursera. All work was implemented and tested using the course’s provided backend environment.
+**P.S.**
+The code files in this repository were developed as part of the AI for Medical Diagnosis course on Coursera. All work was implemented and tested using the course’s provided backend environment.
 
